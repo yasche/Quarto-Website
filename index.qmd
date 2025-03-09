@@ -1,0 +1,109 @@
+---
+title: "Yannik Schermer"
+about:
+  template: trestles
+  image: res/image.jpeg
+  links:
+    - text: "{{< iconify ri:bluesky-fill >}} Bluesky"
+      href: https://yasche.bsky.social
+    - icon: github
+      text: GitHub
+      href: https://github.com/YaSche
+    #- text: "{{< iconify fa6-brands orcid >}}  ORCID"
+    #  href: https:://example.com
+    - icon: envelope
+      text: Mail
+      href: mailto:mail@yannik.science
+
+---
+
+
+<p class = "introduction-text">
+PhD student who is passionate about reproducible data science and data visualization. My research focus is untargeted metabolomics primarily for toxicology and pharmacology. In my free time I like to create stuff with my computer.
+</p>
+
+## Education
+
+<div class = "educ-exp">
+  <span class = "contrib-pub-subheader">PhD in Toxicology</span><br>
+  <span class = "contrib-pub-text">2022 - present &#x2022; RPTU Kaiserslautern-Landau </span>
+</div>
+
+<div class = "educ-exp">
+  <span class = "contrib-pub-subheader">M.Sc. in Toxicology</span><br>
+  <span class = "contrib-pub-text">2020 - 2022 &#x2022; RPTU Kaiserslautern-Landau </span>
+</div>
+
+<div class = "educ-exp">
+  <span class = "contrib-pub-subheader">B.Sc. in Food Chemistry</span><br>
+  <span class = "contrib-pub-text">2017 - 2020 &#x2022; TU Kaiserslautern <br></span>
+</div>
+
+
+## Experience
+
+<div class = "educ-exp">
+  <span class = "contrib-pub-subheader">Master's thesis</span><br>
+  <span class = "contrib-pub-text">
+    05/2022 - 10/2022 &#x2022; Merck KGaA
+  </span><br> 
+  <details class = "contrib-pub-text">
+    <summary class = "summary-click">
+      more...
+    </summary>
+    Investigated the cardiotoxicity of protein kinase inhibitors using <i>in vitro</i> untargeted proteomics.
+  </details>
+</div>
+
+<div class = "educ-exp">
+  <span class = "contrib-pub-subheader">Internship</span><br>
+  <span class = "contrib-pub-text">
+    03/2022 - 04/2022 &#x2022; Merck KGaA
+  </span><br> 
+  <details class = "contrib-pub-text">
+    <summary class = "summary-click">
+      more...
+    </summary>
+    Laid the ground work for the experiments I performed during my master's thesis. Mainly did proteomics and programming in R.
+  </details>
+</div>
+
+<div class = "educ-exp">
+  <span class = "contrib-pub-subheader">Internship</span><br>
+  <span class = "contrib-pub-text">
+    08/2021 - 09/2021 &#x2022; Merck KGaA
+  </span><br> 
+  <details class = "contrib-pub-text">
+    <summary class = "summary-click">
+      more...
+    </summary>
+    Established several immunofluorescence methods for the detection of muscle proteins in FFPE rat tissue.
+  </details>
+</div>
+
+<div class = "educ-exp">
+  <span class = "contrib-pub-subheader">Student assistant</span><br>
+  <span class = "contrib-pub-text">
+    11/2020 - 03/2022 &#x2022; RPTU Kaiserslautern-Landau
+  </span><br> 
+  <details class = "contrib-pub-text">
+    <summary class = "summary-click">
+      more...
+    </summary>
+    At the <a href = "https://bauing.rptu.de/en/wir/rewa" target="_blank">Department for Resource Efficient Wastewater Technology</a>. I mainly performed instrumental analysis of water and literature research on water pollutants.
+  </details>
+</div>
+
+<div class = "educ-exp">
+  <span class = "contrib-pub-subheader">iGEM competition</span><br>
+  <span class = "contrib-pub-text">
+    11/2019 - 11/2020 &#x2022; TU Kaiserslautern
+  </span><br> 
+  <details class = "contrib-pub-text">
+    <summary class = "summary-click">
+      more...
+    </summary>
+    Together with a team I took part in the international 2020 iGEM competition. With our <a href = "https://2020.igem.org/Team:TU_Kaiserslautern/Results" target = "_blank">project</a> we won <a href = "https://2020.igem.org/Competition/Results" target = "_blank">a gold medal, the award for the best environment project and were nominated for two more awards</a>.
+  </details>
+</div>
+

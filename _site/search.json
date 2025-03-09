@@ -1,0 +1,65 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Yannik Schermer",
+    "section": "",
+    "text": "PhD student who is passionate about reproducible data science and data visualization. My research focus is untargeted metabolomics primarily for toxicology and pharmacology. In my free time I like to create stuff with my computer."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Yannik Schermer",
+    "section": "Education",
+    "text": "Education\n\nPhD in Toxicology 2022 - present • RPTU Kaiserslautern-Landau \n\n\nM.Sc. in Toxicology 2020 - 2022 • RPTU Kaiserslautern-Landau \n\n\nB.Sc. in Food Chemistry 2017 - 2020 • TU Kaiserslautern"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Yannik Schermer",
+    "section": "Experience",
+    "text": "Experience\n\nMaster’s thesis  05/2022 - 10/2022 • Merck KGaA \n\n\nmore…\n\nInvestigated the cardiotoxicity of protein kinase inhibitors using in vitro untargeted proteomics.\n\n\n\nInternship  03/2022 - 04/2022 • Merck KGaA \n\n\nmore…\n\nLaid the ground work for the experiments I performed during my master’s thesis. Mainly did proteomics and programming in R.\n\n\n\nInternship  08/2021 - 09/2021 • Merck KGaA \n\n\nmore…\n\nEstablished several immunofluorescence methods for the detection of muscle proteins in FFPE rat tissue.\n\n\n\nStudent assistant  11/2020 - 03/2022 • RPTU Kaiserslautern-Landau \n\n\nmore…\n\nAt the Department for Resource Efficient Wastewater Technology. I mainly performed instrumental analysis of water and literature research on water pollutants.\n\n\n\niGEM competition  11/2019 - 11/2020 • TU Kaiserslautern \n\n\nmore…\n\nTogether with a team I took part in the international 2020 iGEM competition. With our project we won a gold medal, the award for the best environment project and were nominated for two more awards."
+  },
+  {
+    "objectID": "index.html#publications",
+    "href": "index.html#publications",
+    "title": "Yannik Schermer",
+    "section": "Publications",
+    "text": "Publications"
+  },
+  {
+    "objectID": "index.html#conference-contributions",
+    "href": "index.html#conference-contributions",
+    "title": "Yannik Schermer",
+    "section": "Conference Contributions",
+    "text": "Conference Contributions\nGerman Pharm-Tox Summit 2024  In vitro Untargeted Metabolomics as a Tool for Mechanistic Studies, Poster\nGerman Society for Environmental Mutation Research Meeting 2024  Untargeted Metabolomics as a Powerful Tool for in vitro Mechanistic Studies, Poster\nYoung Researchers Symposium RPTU 2024  Untargeted metabolomics for in vitro toxicological testing, Talk\n\nInternational Conference on Non-Target Screening 2023 Using an in vitro Untargeted Metabolomics Approach for Mechanistic Toxicity Studies, Poster"
+  },
+  {
+    "objectID": "index.html#projects",
+    "href": "index.html#projects",
+    "title": "Yannik Schermer",
+    "section": "Projects",
+    "text": "Projects\n\n\n\n\n\n\n\n prokvis \n\nFeature-rich and easy to use Shiny app to create intuitive visualizations of bulk kinase data. Species agnostic.\n\nGitHub • ShinyApp\n\n\n\n\n\n\n\n\n metamorphr \n\nR package to make working with metabolomics data more fun by facilitating tidy and streamlined workflows. Developed by me at the Richling lab during my PhD.\n\nGitHub • CRAN\n\n\n\n\n\n\n\n\n metamorphrGUI \n\nShiny app for the metamorphr package to make it more accessible for people with little or no experience in R. Developed by me at the Richling lab during my PhD.\n\nGitHub • ShinyApp"
+  },
+  {
+    "objectID": "index.html#experimentation",
+    "href": "index.html#experimentation",
+    "title": "Yannik Schermer",
+    "section": "Experimentation",
+    "text": "Experimentation\n\n\nThis is what you want to show before expanding\n\n\nThis is where you put the details that are shown once expanded\n\n\n\nPhD in Toxicology\n\n\n2022 - present • RPTU Kaiserslautern-Landau\n\n\nSome text to show after click\n\n\n\n\nPhD in Toxicology 2022 - present • RPTU Kaiserslautern-Landau\n\n\nM.Sc. in Toxicology 2020 - 2022 • RPTU Kaiserslautern-Landau\n\n\nB.Sc. in Food Chemistry 2017 - 2020 • TU Kaiserslautern"
+  },
+  {
+    "objectID": "projects/index.html",
+    "href": "projects/index.html",
+    "title": "",
+    "section": "",
+    "text": "prokvis \n\nFeature-rich and easy to use Shiny app to create intuitive visualizations of bulk kinase data. Can visualize kinomes of species other than human.\n\n\nShiny app\n\n\n\n\n\n\n\n\n metamorphr \n\nR package to make working with metabolomics data more fun by facilitating tidy and streamlined workflows. Currently under development.\n\nGitHub"
+  }
+]
