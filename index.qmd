@@ -5,7 +5,7 @@ about:
   image: res/image.jpeg
   links:
     - text: "{{< iconify ri:bluesky-fill >}} Bluesky"
-      href: https://yasche.bsky.social
+      href: https://bsky.app/profile/yannik.science
     - icon: github
       text: GitHub
       href: https://github.com/YaSche
