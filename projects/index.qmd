@@ -14,7 +14,7 @@ format:
   <tbody>
     <tr>
       <td class = "td-left">
-        <img src = "logos/prokvis_placeholder.svg" class="bwtocolor"/>
+        <img src = "logos/prokvis_logo.png" class="bwtocolor"/>
       </td>
       <td class = "td-right">
         <span class = "project-subheader">
