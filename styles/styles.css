@@ -221,3 +221,7 @@ details > summary {
 .projects-description {
     margin-bottom: 4px;
 }
+
+ a:link {
+    text-decoration: none;
+}

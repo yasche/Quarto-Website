@@ -60,6 +60,6 @@
     "href": "projects/index.html",
     "title": "",
     "section": "",
-    "text": "prokvis \n\nFeature-rich and easy to use Shiny app to create intuitive visualizations of bulk kinase data. Can visualize kinomes of species other than human.\n\n\nShiny app\n\n\n\n\n\n\n\n\n metamorphr \n\nR package to make working with metabolomics data more fun by facilitating tidy and streamlined workflows. Currently under development.\n\nGitHub"
+    "text": "prokvis \n\nFeature-rich and easy to use Shiny app to create intuitive visualizations of bulk kinase data. Can visualize kinomes of species other than human.\n\n\n\nShiny app\n\n\n\n\n\n\n  \n\n\n metamorphr \n\nR package to make working with metabolomics data more fun by facilitating tidy and streamlined workflows.\n\n\nCRAN • GitHub"
   }
 ]
