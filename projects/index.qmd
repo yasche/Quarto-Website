@@ -34,7 +34,7 @@ format:
     <tr>
       <td class = "td-left">
         <a href = "https://cran.r-project.org/package=metamorphr" target = "_blank">
-          <img src = "logos/metamorphr_placeholder.svg" class="bwtocolor"/>
+          <img src = "logos/mm_logo_v1.svg" class="bwtocolor"/>
         </a>
       </td>
       <td class = "td-right">
