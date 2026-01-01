@@ -9,8 +9,8 @@ about:
     - icon: github
       text: GitHub
       href: https://github.com/YaSche
-    #- text: "{{< iconify fa6-brands orcid >}}  ORCID"
-    #  href: https:://example.com
+    - text: "{{< iconify fa6-brands orcid >}}  ORCID"
+      href: https://orcid.org/0009-0002-5201-057X
     - icon: envelope
       text: Mail
       href: mailto:mail@yannik.science
