@@ -15,7 +15,7 @@ format:
   <tr>
       <td class = "td-left">
         <a href = "https://github.com/yasche/covRflow" target = "_blank">
-          <img src = "logos/covRflow_logo.png" class="bwtocolor"/>
+          <img src = "logos/covrflow_logo.png" class="bwtocolor"/>
         </a>
       </td>
       <td class = "td-right">
