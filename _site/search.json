@@ -60,6 +60,6 @@
     "href": "projects/index.html",
     "title": "",
     "section": "",
-    "text": "covRflow \n\nSmall fun R package to retrieve music cover artworks from an API (currently only Discogs) and display them in the RStudio Viewer pane.\n\n\nGitHub\n\n\n\n\n\n\n  \n\n\n metamorphr \n\nR package to make working with metabolomics data more fun by facilitating tidy and streamlined workflows.\n\n\nCRAN • GitHub\n\n\n\n\n\n\n  \n\n\n prokvis \n\nFeature-rich and easy to use Shiny app to create intuitive visualizations of bulk kinase data. Can visualize kinomes of species other than human.\n\n\n\nShiny app"
+    "text": "covRflow \n\nSmall fun R package to retrieve music cover artworks from an API (currently only Discogs) and display them in the RStudio Viewer pane.\n\n\nGitHub\n\n\n\n\n\n\n  \n\n\n metamorphr \n\nR package to make working with metabolomics data more fun by facilitating tidy and streamlined workflows.\n\n\nCRAN • GitHub\n\n\n\n\n\n\n  \n\n\n prokvis \n\nFeature-rich and easy to use Shiny app to create intuitive visualizations of bulk kinase data. Can visualize kinomes of species other than human.\n\n\n\nShiny app\n\n\n\n\n\n\n\n\n\nFor a full list of projects visit my GitHub."
   }
 ]
